@@ -1,0 +1,6 @@
+{
+  "name": "tm1637",
+  "version": "1.0.0",
+  "description": "Kaluma library for 7-segment LED Display",
+  "main": "index.js"
+}
